@@ -9,6 +9,10 @@ This course relies on primary readings from the database community to introduce 
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/syllabus/
 
+**Recommended Reading**
+
+First lecture: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/lecture-notes/MIT6_830F10_lec01.pdf
+
 
 ## Books
 - Database Management Systems
